@@ -111,6 +111,4 @@ Comprehensive programming education and tech skills training designed to prepare
 
 ---
 
-© 2024–2025 • All rights reserved
-
-> *Code. Learn. Share. Grow.*
+© 2024–2025 • [All rights reserved](https://alkayesrifat.netlify.app)
