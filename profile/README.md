@@ -9,7 +9,7 @@ Join Bangladesh's leading programming club with 6+ active members. Learn coding,
 
 ## 👥 Our Team & Community
 
-* 6+ Active Members
+* 166+ Active Members
 * 2+ Events Hosted
 * 12+ Awards Won
 * 50+ Projects Built
